@@ -1,4 +1,4 @@
----
+
 
 # Budi Setiawan – Professional Portfolio
 
@@ -62,7 +62,7 @@ Whether you're looking for a collaborator, examining technical depth, or assessi
 
 Let’s keep the conversation going:
 
-* LinkedIn: [[www.linkedin.com/in/budisetiawan](https://www.linkedin.com/in/budi-setiawan-28191813/)](https://www.linkedin.com)
+* LinkedIn: [[www.linkedin.com/in/budisetiawan](https://www.linkedin.com/in/budi-setiawan-28191813/)]
 * Email: [bd.setiawan.2021@gmail.com](mailto:bd.setiawan.2021@gmail.com)
 * Visit the live site: [projectsbdsetiawan.com](https://projectsbdsetiawan.com)
 
